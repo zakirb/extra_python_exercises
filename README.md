@@ -4,7 +4,7 @@ Use a python repl to craft your solutions.
 
 OR from the project folder type:
 
-    `python3 your_file_name.py`
+    python3 your_file_name.py
 
 to run your file in your terminal window.
 
