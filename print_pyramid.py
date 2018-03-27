@@ -26,3 +26,9 @@
 
 
 # *** your code here ***
+
+def pyramid(height):
+  for i in range(height):
+    print((height-i) * " " + "#" * (i+1) + " " + "#" * (i+1) + (height-i) * " ")
+
+pyramid(6)
